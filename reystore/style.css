@@ -1,0 +1,65 @@
+nav{
+
+    display: flex;
+    align-items: center;
+    background-color: #1F1B1A;
+    height: 5rem;
+    
+
+}
+
+.logo{
+
+    font-size: 2.3rem;
+    margin-right:1rem ;
+    
+}
+
+.espacio:hover {
+
+    border-bottom: solid #6D1B06 2px;
+    
+
+
+
+    
+
+
+}
+
+
+.enlaces{
+
+    width: 80%;
+    height: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+
+    background-color: white;
+    margin: auto;
+
+}
+
+.enlaces a{
+    text-decoration: none;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: .7rem;
+    padding-top: 1rem;
+
+    
+}
+
+
+.bienvenida{
+    width: 80%;
+    margin: auto;
+
+    font-size: 2rem;
+}
+
+
+
